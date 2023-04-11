@@ -12,16 +12,14 @@ tags: [[+Daily Notes]]
 # ✅ Todo
 
 - [ ] 
-
 ---
 ### ⏰ Time spent
 - <% tp.file.cursor() %>
-- 
+
 ---
 # 👯‍♀️ Meetings
 
 ## Stand-up
-
 
 ---
 # 📝 Notes
