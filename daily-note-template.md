@@ -11,16 +11,26 @@ tags: [[+Daily Notes]]
 ---
 # ✅ Todo
 
-- [ ] 
----
-### ⏰ Time spent
-- <% tp.file.cursor() %>
+```todoist
 
+name: Highest Priority & Date
+
+filter: "today | overdue"
+
+sorting:
+
+- date
+
+- priority
+
+group: true
+
+```
 ---
 # 👯‍♀️ Meetings
 
 ## Stand-up
-
+- <% tp.file.cursor() %>
 ---
 # 📝 Notes
 
